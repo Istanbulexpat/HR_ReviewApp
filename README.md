@@ -1,4 +1,4 @@
-# Ghost Preliminary Research Discovery App
+# HR_ReviewApp Preliminary Research Discovery App
 This app is a Flutter-based mobile app that records recruiter reviews.
 
 Initial Screen and Homescreen were created seperately - but were primarily a rough draft of a review app. They have not been tested. 
