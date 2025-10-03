@@ -1,5 +1,5 @@
 # Ghost Preliminary Research Discovery App
-Ghosted is a mobile app that records recruiter reviews.
+This app is a Flutter-based mobile app that records recruiter reviews.
 
 Initial Screen and Homescreen were created seperately - but were primarily a rough draft of a review app. They have not been tested. 
 
